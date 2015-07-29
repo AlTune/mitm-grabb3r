@@ -8,7 +8,7 @@ This script can capture keystrokes of user input on websites, capture screenshot
 
 Each clients history and captures can be viewed on a timeline.
 
-!["DEMO"](http://s12.postimg.org/48hx4cc3f/grabber.png)
+!["DEMO"](https://raw.githubusercontent.com/ivangr0zni/mitm-grabb3r/master/demo.png)
 
 HOW TO SET SCRIPT
 ===
