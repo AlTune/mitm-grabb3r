@@ -6,7 +6,7 @@
 INFO
 ===
 
-This script can capture keystrokes of user input on websites, capture screenshots of pages and run fake browser plugin update.
+This script can capture keystrokes of user input on websites,capture cookies, capture screenshots of pages and run fake browser plugin update.
 
 Each clients history and captures can be viewed on a timeline.
 
