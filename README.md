@@ -1,4 +1,6 @@
 
+![version](https://img.shields.io/badge/version-1.0-blue.svg)
+
 **MITM GRABB3R** is a PHP (MySQL) script that uses Javascript code to do various XSS "attacks" after you inject it via mitm attack.
 
 INFO
