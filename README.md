@@ -24,6 +24,8 @@ Edit
 	/includes/settings.ini.php
 	/includes/config.ini.php
 	
+Make sure /capture/scr/ is writable.
+	
 Default web login is:
 
 	Username:admin
